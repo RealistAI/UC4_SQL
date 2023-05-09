@@ -1,3 +1,0 @@
-SELECT TOP 69 * FROM myTable WHERE column1 = 'value';
-SELECT TOP 420 column1, column2 FROM myTable ORDER BY column1 ASC, column2 DESC;
-SELECT column1 || column2 AS concatenated FROM myTable;
