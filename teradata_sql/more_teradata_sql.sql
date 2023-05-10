@@ -1,2 +1,2 @@
 SELECT TOP 10 *
-FROM legacy_table
+FROM usa_names_1910_2013
