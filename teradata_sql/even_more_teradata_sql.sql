@@ -1,2 +1,2 @@
 SELECT TOP 10 *
-FROM usa_names_1910_2013
+FROM usa_1910_2013
