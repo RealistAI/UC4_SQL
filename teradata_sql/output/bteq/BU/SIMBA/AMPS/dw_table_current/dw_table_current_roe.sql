@@ -1,1 +1,1 @@
-ALTER TABLE bigquery-public-data.usa_names.usa_1910_2013 ADD COLUMN Age INT;
+ALTER TABLE SIMBA.teradata_schema.usa_1910_2013 ADD COLUMN Age INT;
