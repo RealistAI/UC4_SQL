@@ -1,1 +1,1 @@
-DROP TABLE bigquery-public-data.usa_names.usa_1910_2013;
+DROP TABLE SIMBA.teradata_schema.usa_1910_2013;
