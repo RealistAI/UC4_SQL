@@ -1,1 +1,1 @@
-ALTER TABLE SIMBA.teradata_schema.usa_1910_2013 ADD COLUMN Age INT;
+ALTER TABLE simba.teradata_schema.usa_1910_2013 ADD COLUMN Age INT;
