@@ -1,1 +1,1 @@
-SELECT * FROM SIMBA.teradata_schema.usa_1910_2013;
+SELECT * FROM simba.teradata_schema.usa_1910_2013;
