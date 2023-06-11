@@ -1,1 +1,2 @@
-ALTER TABLE teradata_schema.usa_1910_2013 ADD COLUMN Age INT;
+INSERT INTO my_dataset.EMPLOYEE
+VALUES (123, "Johnny", "Appleseed", DATE '2002-12-12', DATE '2020-12-12', 1182)
