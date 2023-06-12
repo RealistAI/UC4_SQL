@@ -1,2 +1,2 @@
-INSERT INTO my_dataset.EMPLOYEE
+INSERT INTO my_database.EMPLOYEE
 VALUES (123, "Johnny", "Appleseed", DATE '2002-12-12', DATE '2020-12-12', 1182)
