@@ -1,0 +1,15 @@
+{
+  "name_map": [{
+    "source": {
+      "type": "RELATION",
+      "database": "michael-gilbert-dev",
+      "schema": "my_database",
+      "relation": "employee"
+    },
+    "target": {
+      "database": "michael-gilbert-dev",
+      "schema": "uc4_conversion_test_dataset",
+      "relation": "employee"
+    }
+  }]
+}
