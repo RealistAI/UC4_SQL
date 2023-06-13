@@ -5,6 +5,6 @@ CREATE SET TABLE my_database.employee,FALLBACK (
    DOB DATE FORMAT 'YYYY-MM-DD', 
    JoinedDate DATE FORMAT 'YYYY-MM-DD', 
    DepartmentNo BYTEINT,
-   TIMESTAMP
+   '1999-01-01 23:59:59' TIMESTAMP
 ) 
 UNIQUE PRIMARY INDEX ( EmployeeNo );
